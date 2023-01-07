@@ -15,6 +15,7 @@ public class Hepsiburada {
         WebDriverManager.chromedriver().setup();
         driver = new ChromeDriver();
         driver.manage().window().maximize();
+        System.out.println("Initial settings have just been set up!!");
     }
     @AfterAll
     public void close() throws InterruptedException {
