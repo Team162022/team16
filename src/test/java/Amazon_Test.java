@@ -60,6 +60,8 @@ public class Amazon_Test {
         amazondisp5.isDisplayed();
         System.out.println("This test will run on the fourth");
         System.out.println("The last update");
+        System.out.println("The last");
+
 
     }
 
