@@ -59,7 +59,15 @@ public class Amazon_Test {
         WebElement amazondisp5=driver.findElement(By.xpath("//h1[@class='a-spacing-small']"));
         amazondisp5.isDisplayed();
         System.out.println("This test will run on the fourth");
+
         System.out.println("harun ekleme yapti");
+
+        System.out.println("The last update");
+        System.out.println("The last");
+        System.out.println("jwhfjwh");
+        System.out.println("jwhfjwh");
+        System.out.println("The very last");
+
 
     }
 
