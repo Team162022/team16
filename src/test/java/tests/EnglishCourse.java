@@ -31,8 +31,7 @@ public class EnglishCourse {
 
         stringList.forEach(each-> Assert.assertTrue(each.contains("speak")));
         Reuseable.scrollDown();
-        Reuseable.scrollDown();
-        Reuseable.scrollDown();
+        //13.01.2023
         //13.01.2023
 
     }
