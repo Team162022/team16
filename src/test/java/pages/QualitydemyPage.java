@@ -112,6 +112,19 @@ public class QualitydemyPage {
     public WebElement disneyMagicEnglishClick;
     @FindBy(xpath = "(//div[@class='category-title'])8]")
     public WebElement englishGrammarClick;
+    @FindBy(xpath = "//a[text()='English Grammar']")
+    public WebElement englishGrammerLink;
+    @FindBy(xpath = "//li[@class='breadcrumb-item active text-light display-6 fw-bold']")
+    public  WebElement englishGrammerHeader;
+    @FindBy(xpath = "//span[@class='text-12px fw-700 text-muted']")
+    public WebElement searchResult;
+    @FindBy(xpath = "//div[@class='course-box-2']")
+    public WebElement firstCourseLink;
+    @FindBy(xpath = "//div[@class='course-image']")
+    public WebElement courseHeader;
+
+    @FindBy(xpath = "//label[@for='intermediate']")
+    public WebElement intermediateRadioButton;
     @FindBy(xpath = "(//div[@class='category-title'])9]")
     public WebElement microsoftCertificationClick;
     //Home Displayed
