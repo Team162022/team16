@@ -24,6 +24,7 @@ public class EnglishCourse {
         actions.moveToElement(qualitydemyPage.categories).perform();
         actions.moveToElement(qualitydemyPage.englishCourse).perform();
         qualitydemyPage.englishSpeaking.click();
+        //kejkwd
 
         List<WebElement> elements=qualitydemyPage.listOfEnglishCourse;
 
