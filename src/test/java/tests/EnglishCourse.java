@@ -56,6 +56,8 @@ public class EnglishCourse {
         listOfCourse.forEach(n->Assert.assertTrue(n.contains("Beginner")));
         Driver.quitDriver();
         //sdkjgld
+
+        System.out.println("harun degisiklik");
     }
 }
 
