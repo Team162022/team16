@@ -31,6 +31,7 @@ public class EnglishCourse {
 
         stringList.forEach(each-> Assert.assertTrue(each.contains("speak")));
         Reuseable.scrollDown();
+        System.out.println("deneme");
         //Deneme
 
     }
