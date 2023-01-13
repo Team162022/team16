@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f71bbf23-c016-4423-a0da-de9446a3e51c" name="Changes" comment="sezer" />
+    <list default="true" id="f71bbf23-c016-4423-a0da-de9446a3e51c" name="Changes" comment="sezer">
+      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/Reuseable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/configReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Amazon_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test/Amazon_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Hepsiburada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test/Hepsiburada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Testr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test/Testr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/iframe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test/iframe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test/test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test/test34.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +64,6 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/sezer/IdeaProjects/Team16Github&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
