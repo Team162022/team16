@@ -24,6 +24,7 @@ public class EnglishCourse {
         actions.moveToElement(qualitydemyPage.categories).perform();
         actions.moveToElement(qualitydemyPage.englishCourse).perform();
         qualitydemyPage.englishSpeaking.click();
+        //kejkwd
 
         List<WebElement> elements=qualitydemyPage.listOfEnglishCourse;
 
@@ -54,6 +55,7 @@ public class EnglishCourse {
         List<String> listOfCourse=qualitydemyPage.beginnerCourseList.stream().map(WebElement::getText).toList();
         listOfCourse.forEach(n->Assert.assertTrue(n.contains("Beginner")));
         Driver.quitDriver();
+        //sdkjgld
     }
 }
 
