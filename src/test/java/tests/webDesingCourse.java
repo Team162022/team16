@@ -58,7 +58,7 @@ public class webDesingCourse {
         //Beginner Tikla
         qualitydemyPage.beginnerClick.click();
         //Beginner iceriyor mu test et
-        List<String> list=qualitydemyPage.beginnerList.stream().map(WebElement::getText).collect(Collectors.toList());
+        List<String> list=qualitydemyPage.beginnerList.stream().map(WebElement::getText).toList();
         list.forEach(n-> Assert.assertTrue(n.contains("Beginner")));
         //Advanced Tikla
         Reuseable.keysPageDown();
@@ -66,7 +66,7 @@ public class webDesingCourse {
         Reuseable.bekle(5);
         qualitydemyPage.advancedClick.click();
         //Advanced iceriyor mu test ett
-        List<String> list2=qualitydemyPage.advancedList.stream().map(WebElement::getText).collect(Collectors.toList());
+        List<String> list2=qualitydemyPage.advancedList.stream().map(WebElement::getText).toList();
         list2.forEach(n-> Assert.assertTrue(n.contains("Advanced")));
         //Inremediate Tikla
         Reuseable.keysPageDown();
@@ -74,7 +74,7 @@ public class webDesingCourse {
         Reuseable.bekle(5);
         qualitydemyPage.intermediateClick.click();
         //Intermediate iceriyor mu test ett
-        List<String> list3=qualitydemyPage.intermediateList.stream().map(WebElement::getText).collect(Collectors.toList());
+        List<String> list3=qualitydemyPage.intermediateList.stream().map(WebElement::getText).toList();
         list3.forEach(n-> Assert.assertTrue(n.contains("Intermediate")));
     }
 }

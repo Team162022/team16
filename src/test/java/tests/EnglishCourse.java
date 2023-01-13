@@ -51,7 +51,7 @@ public class EnglishCourse {
         Reuseable.scrollDown();
         Reuseable.bekle(3);
         qualitydemyPage.beginnerCheckBox.click();
-        List<String> listOfCourse=qualitydemyPage.beginnerCourseList.stream().map(WebElement::getText).collect(Collectors.toList());
+        List<String> listOfCourse=qualitydemyPage.beginnerCourseList.stream().map(WebElement::getText).toList();
         listOfCourse.forEach(n->Assert.assertTrue(n.contains("Beginner")));
         Driver.quitDriver();
     }

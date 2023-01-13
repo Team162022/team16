@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="711e49d4-cbb9-438e-bf06-e0194577cb8d" name="Changes" comment="" />
+    <list default="true" id="711e49d4-cbb9-438e-bf06-e0194577cb8d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/EnglishCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/EnglishCourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/webDesingCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/webDesingCourse.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +36,31 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\sezer\IdeaProjects\GitPull" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="EnglishCourse.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="team_s" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.EnglishCourse" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.EnglishCourse.test01" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
