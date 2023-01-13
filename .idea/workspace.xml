@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f71bbf23-c016-4423-a0da-de9446a3e51c" name="Changes" comment="sezer" />
+    <list default="true" id="f71bbf23-c016-4423-a0da-de9446a3e51c" name="Changes" comment="sezer">
+      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/Reuseable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/configReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Amazon_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test/Amazon_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Hepsiburada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test/Hepsiburada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Testr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test/Testr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/iframe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test/iframe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test/test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test/test34.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +49,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2J5KTNKnpZwwUbYEyGT4dYIM4f5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -56,36 +73,36 @@
 }</component>
   <component name="RunManager" selected="JUnit.Hepsiburada">
     <configuration name="Hepsiburada" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="TeamGithub" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Hepsiburada" />
+      <module name="team_s" />
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Test.Hepsiburada" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Testr" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="TeamGithub" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Testr" />
+      <module name="team_s" />
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Test.Testr" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="iframe" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="TeamGithub" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="iframe" />
+      <module name="team_s" />
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Test.iframe" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="iframe.control" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="TeamGithub" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="iframe" />
+      <module name="team_s" />
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Test.iframe" />
       <option name="METHOD_NAME" value="control" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -93,9 +110,9 @@
       </method>
     </configuration>
     <configuration name="test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="TeamGithub" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="test3" />
+      <module name="team_s" />
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Test.test3" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
