@@ -7,11 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="team16" />
-        <module name="GitHubTeam16" />
+        <module name="Com.TestNGTeam105" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="GitHubTeam16" target="16" />
+      <module name="Com.TestNGTeam105" target="11" />
       <module name="team16" target="16" />
     </bytecodeTargetLevel>
   </component>

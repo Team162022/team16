@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Com.TestNGTeam105.iml" filepath="$PROJECT_DIR$/Com.TestNGTeam105.iml" />
       <module fileurl="file://$PROJECT_DIR$/GitHubTeam16.iml" filepath="$PROJECT_DIR$/GitHubTeam16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/team16.iml" filepath="$PROJECT_DIR$/.idea/team16.iml" />
     </modules>
   </component>
 </project>
