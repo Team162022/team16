@@ -31,9 +31,6 @@ public class EnglishCourse {
         List<String> stringList= Reuseable.getElementsText(elements);
 
         stringList.forEach(each-> Assert.assertTrue(each.contains("speak")));
-        Reuseable.scrollDown();
-        System.out.println("deneme");
-        //Deneme
 
     }
     @Test()
@@ -55,9 +52,6 @@ public class EnglishCourse {
         List<String> listOfCourse=qualitydemyPage.beginnerCourseList.stream().map(WebElement::getText).toList();
         listOfCourse.forEach(n->Assert.assertTrue(n.contains("Beginner")));
         Driver.quitDriver();
-        //sdkjgld
-
-        System.out.println("harun degisiklik");
     }
 }
 
