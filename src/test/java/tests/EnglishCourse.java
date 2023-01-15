@@ -24,15 +24,13 @@ public class EnglishCourse {
         actions.moveToElement(qualitydemyPage.categories).perform();
         actions.moveToElement(qualitydemyPage.englishCourse).perform();
         qualitydemyPage.englishSpeaking.click();
+        //kejkwd
 
         List<WebElement> elements=qualitydemyPage.listOfEnglishCourse;
 
         List<String> stringList= Reuseable.getElementsText(elements);
 
         stringList.forEach(each-> Assert.assertTrue(each.contains("speak")));
-        Reuseable.scrollDown();
-        System.out.println("deneme");
-        //Deneme
 
     }
     @Test()
