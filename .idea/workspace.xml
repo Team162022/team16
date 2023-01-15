@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="711e49d4-cbb9-438e-bf06-e0194577cb8d" name="Changes" comment="">
-
+    <list default="true" id="aea2fdfd-bd8a-4df0-b5d0-433c50904b92" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/QualitydemyPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/QualitydemyPage.java" afterDir="false" />
-
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,21 +33,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
 
-    "last_opened_file_path": "D:/Kodlar/Kod/5SeleniumDersleri/com.Team105cucumber",
+    &quot;last_opened_file_path&quot;: &quot;D:/Kodlar/Kod/5SeleniumDersleri/com.Team105cucumber&quot;,
 
-    "last_opened_file_path": "C:/Users/DELL/Documents/GitHub/team16",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DELL/Documents/GitHub/team16&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
 
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\sezer\IdeaProjects\GitPull" />
