@@ -58,3 +58,27 @@ public class EnglishCourse {
 }
 
 
+// Runnur'i 3 yaparsak 3 yazmamiz lazim
+//
+//
+//
+// <include>**/runners/*ParelelRunner*.java</include>
+//kismini degistire biliriz ParelelRunner
+//
+//mvn clean verify
+//
+//
+//
+////div[text()='Reject all'])[2]
+//
+////select[@data-test='LanguageSelect']
+//
+////*[text()='TRY']
+//
+//WebElement test=driver.findElement(By.xpath("//*[text()='TRY']"));
+//Assert.assertTrue(test.getText().contains("TRY"));
+//// burada yaptigimiz test.getText()=TRY'i iceriyorsa biz amacimiza ulasmis oluruz
+//
+//String expectedKelime="Çok Satanlar";
+//String actualtitle=driver.getTitle();
+//Assert.assertTrue(actualtitle.contains(expectedKelime));
